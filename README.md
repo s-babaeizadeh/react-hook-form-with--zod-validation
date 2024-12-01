@@ -25,4 +25,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/react-hook-form-tailwind.git
+   git clone git@github.com:s-babaeizadeh/react-hook-form-with--zod-validation.git
+   Navigate to the project directory:
+   npm insatll
+   npm run dev
